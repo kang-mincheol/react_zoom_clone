@@ -1,3 +1,3 @@
-# myrecord React
+# react_study
 
-MYRECORD React Project
+zoom clone pjt
